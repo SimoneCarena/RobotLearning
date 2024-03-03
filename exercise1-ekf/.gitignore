@@ -1,0 +1,5 @@
+.vscode
+single_pendulum/__pycache__
+double_pendulum/__pycache__
+*/__pycache__
+imgs/
